@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá 👋, sou o Igor!
 
-<!--
-**igulino/igulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+- 🌱 estou aprendendo Jquery e expo
+- 📫 estudando...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display inline-block"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" height="100px" whidt="100px" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" height="80px" whidt="100px">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="80px" whidt="100px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80px" whidt="100px">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="80px" whidt="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="80px" whidt="100px">
+      
+</div>

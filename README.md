@@ -2,7 +2,6 @@
 
 ###
 
-- 🌱 estou aprendendo Jquery e expo
 - 📫 estudando...
 
 <div style="display inline-block"> 

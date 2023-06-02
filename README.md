@@ -1,6 +1,7 @@
 # Olá 👋, sou o Igor!
 
 ###
+![giphy](https://github.com/igulino/igulino/assets/96080007/6b50aed9-d856-441a-a9b7-8fa92f84a9a8)
 
 - 📫 estudando...
 
@@ -13,3 +14,4 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="80px" whidt="100px">
       
 </div>
+ 

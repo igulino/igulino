@@ -4,8 +4,7 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igulino&show_icons=true&theme=nightowl)](https://github.com/igulino/github-readme-stats)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igulino&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igulino&show_icons=true&theme=nightowl)
 
 <div style="display inline-block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" height="100px" whidt="100px" >

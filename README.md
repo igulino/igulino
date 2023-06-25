@@ -14,5 +14,6 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80px" whidt="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="80px" whidt="100px">
               <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="80px" whidt="100px">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="80px" whidt="100px">
     
   </div>
